@@ -24,7 +24,7 @@ listen.match(%w(enlists google inlets banana))
 # => ["inlets"]
 ```
 
-**Top Tip:** [`%w(some words)`][array_shortcut] is simply a shortcut for
+**Top Tip:**  is simply a shortcut for
 instantiating an array with items in it!
 
 ## Instructions
